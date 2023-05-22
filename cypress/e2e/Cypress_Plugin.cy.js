@@ -1,6 +1,6 @@
 describe("File upload and download tests", () => {
   beforeEach(() => {
-    cy.visit("https://filebin.net/");
+    cy.visit("https://filebin.net/6ndjhwrwxg23l6hh");
   });
 
   it("Upload file and download it in Zip format", () => {
